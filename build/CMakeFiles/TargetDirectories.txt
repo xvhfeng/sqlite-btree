@@ -1,0 +1,3 @@
+/Users/bgm/Downloads/simple-sqlite-master/build/CMakeFiles/simple_sqlite.dir
+/Users/bgm/Downloads/simple-sqlite-master/build/CMakeFiles/edit_cache.dir
+/Users/bgm/Downloads/simple-sqlite-master/build/CMakeFiles/rebuild_cache.dir
